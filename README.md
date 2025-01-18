@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **bigger projects**
 
-- 📫 How to reach me **alperen.v.celebi@gmail.com**
+- 📫 How to reach me **alperen.v.celebi44@gmail.com**
 
 - ⚡ Fun fact **My unmatched perspicacity coupled with my sheer indefatigability makes me a feared opponent in any realm of human endeavour.**
 
