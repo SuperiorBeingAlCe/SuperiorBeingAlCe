@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alperen Çelebi</h1>
+<h1 align="center">Hi 👋, I'm Alperen Çelebi</h1> 
 <h3 align="center">A passionate developer from Turkey</h3>
 <img align="right" alt="[Coding" width="400" src="https://i.gifer.com/origin/cf/cf95f54d66e86b735a6a549deb92c993_w200.gif">	
 
